@@ -99,7 +99,7 @@ class Ui_television_window(object):
 
     def retranslateUi(self, television_window):
         _translate = QtCore.QCoreApplication.translate
-        television_window.setWindowTitle(_translate("television_window", "MainWindow"))
+        television_window.setWindowTitle(_translate("television_window", "Television"))
         self.button_channel_up.setText(_translate("television_window", "Channel Up"))
         self.button_channel_down.setText(_translate("television_window", "Channel Down"))
         self.button_volume_down.setText(_translate("television_window", "Volume Down"))
